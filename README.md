@@ -15,7 +15,7 @@ Ao longo da pipeline, foram implementadas diversas etapas de tratamento e padron
 * **Otimização de armazenamento e desempenho:** adequação dos tipos de dados utilizando técnicas de *downcasting* para colunas numéricas e categóricas, reduzindo significativamente o consumo de memória e aumentando a eficiência das operações de processamento e consulta.
 * **Modelagem e integridade relacional:** padronização da nomenclatura das colunas, reorganização do esquema de dados e criação de uma chave primária sequencial, assegurando consistência e facilitando a integração com o **Supabase (PostgreSQL)**.
 
-Como resultado, foi construída uma base de dados totalmente higienizada, padronizada e otimizada, pronta para suportar as próximas fases do projeto. As etapas seguintes contemplam a realização da **Análise Exploratória de Dados (EDA)** e o desenvolvimento de técnicas de **Feature Engineering**, com foco na investigação dos acidentes relacionados à **fadiga e ao sono**, permitindo extrair padrões, identificar fatores de risco e gerar insights que apoiem futuras análises e modelos preditivos.
+Como resultado, foi construída uma base de dados totalmente higienizada, padronizada e otimizada, pronta para suportar as próximas fases do projeto. As etapas seguintes contemplam a realização da **Análise Exploratória de Dados (EDA)**, com foco na investigação dos acidentes relacionados à **fadiga e ao sono**, **desatenção do condutor** e outros, permitindo extrair padrões, identificar fatores de risco e gerar insights que apoiem futuras análises e modelos preditivos.
 
 ---
 
