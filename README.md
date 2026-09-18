@@ -78,7 +78,7 @@ Ao longo do desenvolvimento do modelo, surgiram desafios importantes que guiaram
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone https://github.com/Raimundo2004/ETL-Acidentes.git
 
 # 2. Acesse a pasta do projeto
 cd nome-do-repositorio
@@ -86,6 +86,10 @@ cd nome-do-repositorio
 # 3. Instale as dependências necessárias
 pip install -r requirements.txt
 
-# 4. Execute o script de ETL
-python etl_pipeline.py
+# 4. Execute os notebooks na ordem
+jupyter notebook
+
+# Depois abra e execute, em ordem:
+# - tratando.ipynb (Etapa 1: ETL da base da PRF e da telemetria)
+# - ML.ipynb (Etapa 2: modelagem e avaliação)
 
