@@ -26,7 +26,7 @@ Como resultado, foi construída uma base de dados totalmente higienizada, padron
 
 ---
 
-## 🧠 Etapa 2: Introdução de Machine Learning no Projeto
+# 🧠 Etapa 2: Introdução de Machine Learning no Projeto
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-SMOTE-red) ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
