@@ -89,7 +89,7 @@ pip install -r requirements.txt
 # 4. Execute os notebooks na ordem
 jupyter notebook
 
-# Depois abra e execute, em ordem:
-# - tratando.ipynb (Etapa 1: ETL da base da PRF e da telemetria)
-# - ML.ipynb (Etapa 2: modelagem e avaliação)
+Depois abra e execute, em ordem:
+- tratando.ipynb (Etapa 1: ETL da base da PRF e da telemetria)
+- ML.ipynb (Etapa 2: modelagem e avaliação)
 
