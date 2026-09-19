@@ -53,10 +53,9 @@ Ao longo do desenvolvimento do modelo, surgiram desafios importantes que guiaram
 
 > ⚠️ A acurácia geral não foi utilizada como métrica principal de avaliação, pois se mostrou enganosa dado o forte desbalanceamento das classes. O foco da análise foi o *recall* da classe de risco.
 
-### 📂 Notebooks desta etapa
+### 📂 Notebook desta etapa
 
 - [`ML.ipynb`](./ML.ipynb) — modelagem, balanceamento, avaliação e interpretação do modelo
-- [`tratando.ipynb`](./tratando.ipynb) — tratamento e preparação dos dados de telemetria
 
 ### ⚠️ Limitações
 
